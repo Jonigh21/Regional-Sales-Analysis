@@ -1,5 +1,4 @@
-# Regional Sales Analysis – DTSC600 Final Project
-
+# Regional Sales Analysis 
 ## Overview
 
 This Tableau project explores total sales performance across U.S. regions using the `regional_sales` dataset. The goal was to identify which regions lead or lag in sales and uncover patterns that could inform strategic decision-making.
